@@ -1,28 +1,28 @@
 {
-    "name": "umimood/dearapi",
+    "name": "notscottsmith/dearapi",
     "description": "PHP Library for dear systems API v2 https://dearinventory.docs.apiary.io",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Umair Mahmood",
-            "email": "umair.mahmood22@gmail.com"
+            "name": "Scott Smith",
+            "email": "scott@notscottsmith.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^7.1",
-        "guzzlehttp/guzzle": "^6.3",
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.4",
         "ext-json": "*"
     },
     "autoload": {
         "psr-4": {
-            "UmiMood\\Dear\\" : "src/"
+            "notScottSmith\\Dear\\" : "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "UmiMood\\Dear\\Test\\" : "tests/"
+            "notScottSmith\\Dear\\Test\\" : "tests/"
         }
     },
     "extra": {

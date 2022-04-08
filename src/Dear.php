@@ -5,9 +5,9 @@
  *
  * @package Dear
  * @version 1.0
- * @author Umair Mahmood
+ * @author Scott Smith
  * @license MIT
- * @copyright Copyright (c) 2019 Umair Mahmood
+ * @copyright Copyright (c) 2022 Scott Smith
  *
  */
 

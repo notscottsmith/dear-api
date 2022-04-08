@@ -5,14 +5,14 @@ PHP Library for [dear systems](https://dearinventory.docs.apiary.io) API v2.
 
 ## Requirements
 
-* PHP 7.1+
-* guzzlehttp/guzzle 6.3+
+* PHP 8.1+
+* guzzlehttp/guzzle 7.3+
 * ext-json extension
 
 ## Installation
 
 ```bash
-composer require umimood/dearapi
+composer require notscottsmith/dearapi
 ```
 
 Otherwise just download the package and add it to the autoloader.
